@@ -41,7 +41,3 @@ else:
 ## Result
 thus the given code is executed successfully.
 
-
-
-
-reg no: 212224040051
